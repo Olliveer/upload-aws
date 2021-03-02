@@ -1,7 +1,6 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/web%3F-no-00b8d3?style=for-the-badge" alt="Sistema web Yes" />
   <img src="https://img.shields.io/badge/server%3F-yes-00b8d3?style=for-the-badge" alt="Server No" />
-  <img src="https://img.shields.io/github/license/olliveer/proffy?color=00b8d3&style=for-the-badge" alt="License" />
 </h2>
 
 <h1 align="center">
